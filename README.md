@@ -1,5 +1,7 @@
 # multisim-amplifiers-and-simple-digital-circuits
 
+Descriptions in Polish, tables in the table file.
+
 Operational amplifiers
 
 a. Classic integrated operational amplifier
@@ -56,4 +58,4 @@ Drawing of the system in the file
 Prepare a report on the completion of all points of this exercise
 
 Each report should be provided with the following heading and include:
-a detailed description of all completed exercise points along with your own conclusions regarding the work performed
+a detailed description of all completed exercise points along with your own conclusions regarding the work performed.
